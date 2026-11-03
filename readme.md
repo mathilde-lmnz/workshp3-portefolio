@@ -1,4 +1,4 @@
-# BeThom — Portfolio de graphiste freelance
+# BeThom * Portfolio de graphiste freelance
 
 ## Présentation du projet
 
