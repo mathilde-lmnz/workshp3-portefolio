@@ -74,14 +74,3 @@ La structure comprend un H1 unique, une hiérarchie de titres H2/H3, des images 
 **Point d'attention :** le bouton principal présente un contraste de 2,89:1, inférieur au seuil WCAG AA de 4,5:1 pour du texte normal. Le choix a été fait de conserver les couleurs de la maquette originale.
 
 Une différence typographique a également été relevée dans la maquette Figma. La police Heebo a été conservée sur l'ensemble du site pour assurer la cohérence graphique.
-
-## Liens du projet
-
-- **Site en ligne :** https://mathildelmnz.alwaysdata.net/
-- **Dépôt GitHub :** https://github.com/mathilde-lmnz/workshp3-portefolio
-
-## Contexte
-
-Projet pédagogique réalisé à partir d'une maquette Figma fournie dans le cadre du Challenge 3.
-
-Le contenu présenté est fictif.
